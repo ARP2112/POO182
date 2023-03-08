@@ -32,8 +32,5 @@ botonNegro.pack()
 
 
 
-
-
-
 #Metodo Main para ejecutar la ventana
 ventana.mainloop()
