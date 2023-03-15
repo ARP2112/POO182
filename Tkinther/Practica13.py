@@ -1,5 +1,5 @@
 from tkinter import Tk, Frame
-import tkinter as tk
+import tkinter as Tk
 
 ventana=Tk()
 ventana.title("Login")
